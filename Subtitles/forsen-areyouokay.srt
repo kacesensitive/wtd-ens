@@ -1,0 +1,20 @@
+1
+00:00:00,167 --> 00:00:02,433
+trailer: Please leave your message after the beep.
+
+2
+00:00:03,167 --> 00:00:03,600
+sven: Beep!
+
+3
+00:00:03,900 --> 00:00:08,950
+[male_dub]
+
+4
+00:00:09,200 --> 00:00:10,183
+obama: Are you okay?
+
+5
+00:00:10,783 --> 00:00:12,317
+Forsen: I'm NOT okay, dude!
+

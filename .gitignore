@@ -1,0 +1,7 @@
+*.psd
+*.veg
+*.sfk
+*.zip
+VideoClips/*.srt
+
+_installer-src/target
